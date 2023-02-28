@@ -7673,3 +7673,11 @@ display:table;
 		display:none;
 	}
 	}
+
+	@media screen and (max-width:500px) {
+		.countdown-s2 .countdown-show4 .countdown-section {
+		  width: 60px !important;
+		}
+	  }
+	
+
